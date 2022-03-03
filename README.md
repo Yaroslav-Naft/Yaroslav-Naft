@@ -1,6 +1,6 @@
 # Yaroslav Naftulyev
 
-[![Header](./AnimatedBanner.gif "Header")](http://www.yaroslavnaft.com/)
+[![Header](https://www.canva.com/design/DAE55rUodL4/0lkUXfRYDyii5B5Q3XDCNw/watch?utm_content=DAE55rUodL4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Header")](http://www.yaroslavnaft.com/)
 
 [![Header](./Banner.png "Header")](http://www.yaroslavnaft.com/)
 
