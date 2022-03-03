@@ -1,8 +1,8 @@
 # Yaroslav Naftulyev
 
+[![Header](./Banner.png "Header")](http://www.yaroslavnaft.com/)
 
-![Banner](./Banner.png width="30px")
-<img src="./Banner.png" width="30px">
+<img src="./Banner.png">
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
