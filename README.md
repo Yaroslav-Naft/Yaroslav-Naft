@@ -2,7 +2,7 @@
 
 
 
-[![Header](https://www.canva.com/design/DAE55rUodL4/0lkUXfRYDyii5B5Q3XDCNw/watch?utm_content=DAE55rUodL4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Header")](http://www.yaroslavnaft.com/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/Yaroslav Naftulyev.gif "Header")](http://www.yaroslavnaft.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
