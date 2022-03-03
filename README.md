@@ -5,6 +5,7 @@
 
 My name is Yaroslav Naftulyev & I am a Front-End/Cloud Engineer. I live in Vancouver & currently work for Radius Global as a Full-stack Developer.
 
+
 ## 🧰 Technologies & Tools
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue) 
@@ -13,10 +14,21 @@ My name is Yaroslav Naftulyev & I am a Front-End/Cloud Engineer. I live in Vanco
 
 ## 📈 Github Stats
 
+<a href="https://github.com/Yaroslav-Naft/Yaroslav-Naft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroslav-Naft&hide=stars&show_icons=true&line_height=27&count_private=true&theme=blueberry" alt="Yaroslav's GitHub Stats" />
+</a> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslav-Naft&theme=cobalt" /> 
+<a href="https://github.com/Yaroslav-Naft/Yaroslav-Naft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslav-Naft&theme=blueberry&langs_count=3" />
+</a> 
 
-[![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaroslav-Naft)](https://github.com/Yaroslav-Naft/github-readme-stats)
+<a href="https://github.com/Yaroslav-Naft/CrossTrails-Dating">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Naft&repo=CrossTrails-Dating&theme=blueberry" /> 
+</a> 
+
+<a href="https://github.com/Yaroslav-Naft/industry-project-agilitek-frontend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Naft&repo=industry-project-agilitek-frontend&theme=blueberry" />
+</a> 
+
 
 
 ## 🗻 Hobbies & Passions
@@ -24,4 +36,5 @@ My name is Yaroslav Naftulyev & I am a Front-End/Cloud Engineer. I live in Vanco
 ⛷️ Skiing & Snowboarding
 
 🥊 Boxing & Jiu-jitsu
+
 
