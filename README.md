@@ -1,5 +1,3 @@
-# Yaroslav Naftulyev
-
 [![Header](./Banner.png "Header")](http://www.yaroslavnaft.com/)
 
 
