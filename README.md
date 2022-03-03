@@ -1,8 +1,8 @@
 # Yaroslav Naftulyev
 
-[![Header](./Banner.png "Header")](http://www.yaroslavnaft.com/)
+[![Header](./AnimatedBanner.gif "Header")](http://www.yaroslavnaft.com/)
 
-<img src="./Banner.png">
+[![Header](./Banner.png "Header")](http://www.yaroslavnaft.com/)
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
