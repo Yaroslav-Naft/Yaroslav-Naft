@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Yaroslav-Naft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Yaroslav Naftulyev
 
-<!---
-Yaroslav-Naft/Yaroslav-Naft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](http://www.yaroslavnaft.com/)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Yaroslav Naftulyev & I am a Front-End/Cloud Engineer. I live in Vancouver & currently work for Radius Global as a Full-stack Developer.
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
