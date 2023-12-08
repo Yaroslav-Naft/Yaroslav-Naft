@@ -18,9 +18,9 @@ My name is Yaroslav Naftulyev & I am a Front-End/Cloud Engineer. I live in Vanco
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslav-Naft&theme=blueberry&langs_count=3" />
 </a> 
 
-## <a href="https://github.com/Yaroslav-Naft/Yaroslav-Naft">
-##  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroslav-Naft&show_icons=true&line_height=27&count_private=true&theme=blueberry" alt="Yaroslav's GitHub Stats" />
-## </a> 
+<a href="https://github.com/Yaroslav-Naft/Yaroslav-Naft">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaroslav-Naft&show_icons=true&line_height=27&count_private=true&theme=blueberry" alt="Yaroslav's GitHub Stats" />
+</a> 
 
 <a href="https://github.com/Yaroslav-Naft/CrossTrails-Dating">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Naft&repo=CrossTrails-Dating&theme=blueberry" /> 
