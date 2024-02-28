@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Yaroslav Naftulyev & I am a Full-stack Software Engineer. I'm currently based in Vancouver & work @ Visualping.io.
+My name is Yaroslav Naftulyev & I'm a Passionate Software Engineer working @ Visualping.io.
 
 
 ## 🧰 Technologies & Tools
