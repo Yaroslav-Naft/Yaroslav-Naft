@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Yaroslav Naftulyev & I am a Front-End/Cloud Engineer. I live in Vancouver & currently work for Radius Global as a Full-stack Developer.
+My name is Yaroslav Naftulyev & I am a Full-stack Software Engineer. I'm currently based in Vancouver & work @ Visualping.io.
 
 
 ## 🧰 Technologies & Tools
